@@ -1,0 +1,42 @@
+{
+  "beskeder": [
+    {
+      "id": "3",
+      "titel": "Test Post 34",
+      "besked": "Dette er et test post",
+      "lavetPaa": "2021-01-10",
+      "oprettetaf": "Anonym",
+      "secretAdmin": "#0001"
+    },
+    {
+      "titel": "Test post igen",
+      "besked": "Hej med dig",
+      "lavetPaa": "2021-08-31",
+      "id": "ryPQMQY",
+      "oprettetaf": "Anonym",
+      "secretAdmin": "#0000"
+    },
+    {
+      "titel": "wdjawjd",
+      "besked": "aowidoaiwdoawodaowdoawodiawidawd",
+      "lavetPaa": "2021-07-30",
+      "id": "iiNsdV3",
+      "oprettetaf": "Anonym",
+      "secretAdmin": "#0000"
+    }
+  ],
+  "elever": [
+    {
+      "id": "1",
+      "navn": "Oliver Agdal",
+      "mail": "test@gmail.com",
+      "lavetPaa": "2021-01-10"
+    },
+    {
+      "navn": "Test bruger",
+      "mail": "test@bruger.dk",
+      "id": "QMoNNsm",
+      "lavetPaa": "2021-01-10"
+    }
+  ]
+}
